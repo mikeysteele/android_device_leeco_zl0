@@ -21,7 +21,7 @@
 # definition file).
 #
 
-$(call inherit-product-if-exists, vendor/leeco/zl1/zl1-vendor.mk)
+$(call inherit-product-if-exists, vendor/leeco/zl0/zl0-vendor.mk)
 
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
@@ -36,7 +36,7 @@ TARGET_SCREEN_WIDTH := 1080
 
 # Ramdisk
 PRODUCT_COPY_FILES += \
-    $(call find-copy-subdir-files,*,device/leeco/zl1/rootdir/root,root)
+    $(call find-copy-subdir-files,*,device/leeco/zl0/rootdir/root,root)
 
 # Permissions
 PRODUCT_COPY_FILES += \

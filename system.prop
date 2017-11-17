@@ -1,5 +1,5 @@
 # Product
-ro.config.product=le_zl1
+ro.config.product=le_zl0
 ro.config.le_hardware_version=HW_1.0.0
 ro.display.series=Le Pro3
 
