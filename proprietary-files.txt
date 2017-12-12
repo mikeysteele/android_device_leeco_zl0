@@ -158,6 +158,9 @@ vendor/lib/libqomx_jpegdec.so
 vendor/lib/libqomx_jpegenc_pipe.so
 vendor/lib/libqomx_jpegenc.so
 vendor/lib/libSonyIMX298PdafLibrary.so
+vendor/lib/libSonyIMX298_ofilm_ak_PdafLibrary.so
+vendor/lib/libSonyIMX298_ofilm_PdafLibrary.so
+vendor/lib/libSonyIMX298_truly_ak_PdafLibrary.so
 
 # Camera actuators
 vendor/lib/libactuator_dw9714.so
